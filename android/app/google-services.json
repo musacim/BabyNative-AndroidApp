@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803773045415",
+    "firebase_url": "https://babynative-25541.firebaseio.com",
+    "project_id": "babynative-25541",
+    "storage_bucket": "babynative-25541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803773045415:android:00d2e44b722d7bebacd982",
+        "android_client_info": {
+          "package_name": "musacim.babynative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803773045415-feacb1qiadfi6lomak1en4nd1pkfo0c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPN4j-9JgL3Gd4nqwaQmDAxEKnRW3vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803773045415-feacb1qiadfi6lomak1en4nd1pkfo0c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
