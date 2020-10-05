@@ -1,16 +1,12 @@
-# babynative
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+BabyNative is an app which helps students to learn English via enlarging their vocabulary. It is free and not containing ads.
+## Application
+It is developed by using Flutter Framework. And Dart is the main programming language.
+Firebase is used for authentication and storage services. Also Machine Learning kit of Firebase is involved in order to recognize texts from images. It is published
+at [Google Play] ( link to it)
+## Web
+Brief explanations and main functions of the app is introduced with implementations at [Web Site of The App](https://musacim.github.io/b).
+## Owner
+All of the UI design components and software architecture belongs to owner of repository. 
+Motivation and main goal of releasing the app is gaining experince for adapting to relatively
+new technologies(such as Flutter in this project) and improving design and architecture skills via developing a software.
