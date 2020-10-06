@@ -5,7 +5,7 @@ It is developed by using Flutter Framework. And Dart is the main programming lan
 Firebase is used for authentication and storage services. Also Machine Learning kit of Firebase is involved in order to recognize texts from images. It is published
 at [Google Play]().
 ## Web
-Brief explanations and main functions of the app is introduced with implementations at [Web Site of The App](https://musacim.github.io/b).
+Brief explanations and main functions of the app is introduced with implementations at [Web Site of The App](https://musacim.github.io/BabyNative-Web/).
 ## Owner
 All of the UI design components and software architecture belongs to owner of repository. 
 Motivation and main goal of releasing the app is gaining experince for adapting to relatively
