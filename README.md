@@ -9,4 +9,4 @@ Brief explanations and main functions of the app is introduced with implementati
 ## Owner
 All of the UI design components and software architecture belongs to owner of repository. 
 Motivation and main goal of releasing the app is gaining experince for adapting to relatively
-new technologies(such as Flutter in this project) and improving design and architecture skills via developing a software.
+new technologies (such as Flutter in this project) and improving design and architecture skills via developing a software.
